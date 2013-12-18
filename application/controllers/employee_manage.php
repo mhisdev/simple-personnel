@@ -156,15 +156,15 @@ class Employee_manage extends CI_Controller {
 
 		$this->data['form'] = array(
 
-			'first_name'		=> '',
-			'last_name'			=> '',
-			'telephone'			=> '',
-			'house_name_number'	=> '',
-			'street'			=> '',
-			'town'				=> '',
-			'city'				=> '',
-			'post_code'			=> '',
-			'active_status'		=> 'true'
+			'first_name'            => '',
+			'last_name'             => '',
+			'telephone'             => '',
+			'house_name_number'     => '',
+			'street'                => '',
+			'town'                  => '',
+			'city'                  => '',
+			'post_code'             => '',
+			'active_status'         => 'true'
 		);
 	}
 
@@ -186,15 +186,15 @@ class Employee_manage extends CI_Controller {
 
 		$this->data['form'] = array(
 
-			'first_name'		=> $this->input->post('first_name'),
-			'last_name'			=> $this->input->post('last_name'),
-			'telephone'			=> $this->input->post('telephone'),
-			'house_name_number'	=> $this->input->post('house_name_number'),
-			'street'			=> $this->input->post('street'),
-			'town'				=> $this->input->post('town'),
-			'city'				=> $this->input->post('city'),
-			'post_code'			=> $this->input->post('post_code'),
-			'active_status'		=> $this->input->post('active_status')	
+			'first_name'        => $this->input->post('first_name'),
+			'last_name'         => $this->input->post('last_name'),
+			'telephone'         => $this->input->post('telephone'),
+			'house_name_number' => $this->input->post('house_name_number'),
+			'street'            => $this->input->post('street'),
+			'town'              => $this->input->post('town'),
+			'city'              => $this->input->post('city'),
+			'post_code'         => $this->input->post('post_code'),
+			'active_status'     => $this->input->post('active_status')	
 		);
 
 		// Process 'active_status' checkbox to produce boolean
