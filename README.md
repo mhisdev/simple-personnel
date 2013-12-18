@@ -1,6 +1,3 @@
-Personnel Database 
-==================
-
 A simple database application using Codeigniter MVC, based on a technical test for a job interview.
 
 Simple Personnel Database 
