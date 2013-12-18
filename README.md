@@ -1,5 +1,10 @@
-Simple Personnel Database - Interview Technical Test 
-====================================================
+Personnel Database 
+==================
+
+A simple database application using Codeigniter MVC, based on a technical test for a job interview.
+
+Simple Personnel Database 
+=========================
 
 Create a simple database to store the following information about employees;
 
