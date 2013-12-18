@@ -1,4 +1,4 @@
-<p>Recently I was invited for an interview and techinal test for a job I had applied for as a Web Developer. I had no idea what the technical test would involve,
+<p>Recently I was invited for an interview and technical test for a job I had applied for as a Web Developer. I had no idea what the technical test would involve,
  but on arrival I was asked to build a simple database application. This project is my implementation
   of the task, completed after the interview using the Codeigniter MVC framework.</p>
 <div class="well">
